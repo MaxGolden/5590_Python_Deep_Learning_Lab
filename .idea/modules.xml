@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/5590_Python_Deep_Learning_Lab.iml" filepath="$PROJECT_DIR$/.idea/5590_Python_Deep_Learning_Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lab_1/.idea/lab_1.iml" filepath="$PROJECT_DIR$/../lab_1/.idea/lab_1.iml" />
     </modules>
   </component>
